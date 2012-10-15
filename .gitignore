@@ -1,0 +1,15 @@
+*#
+*.aux
+*.bak
+*.class
+*.dvi
+*.log
+*.nav
+*.org
+*.out
+*.snm
+*.toc
+*.vrb
+*~
+code/target/
+target/
